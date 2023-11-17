@@ -1,6 +1,10 @@
 # 视频
 
+<<<<<<< HEAD
 <a href="https://www.bilibili.com/video/BV1gz4y1A7Ao/">基于vits端到端实时语音合成实现的学生点名系统</a>
+=======
+<a href="https://www.bilibili.com/video/BV1gz4y1A7Ao/">密码堡垒：打造你的超级密码生成器</a>
+>>>>>>> fce885972c8a57882bad49103956b9ea32fe2b73
 
 # 初衷
 
