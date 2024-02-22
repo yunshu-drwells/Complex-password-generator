@@ -43,6 +43,6 @@ pyinstaller --onefile --noconsole main.py --name ComplexPasswordGenerator
 
 # 捐献
 
-<p align="center"> <div align="middle"><img src="https://github.com/yunshu-drwells/Notes/blob/main/donate%20ali.jpg" alt="202402191238496" width="720" height=""></div></p>
+<p align="center"> <div align="middle"><img src="https://github.com/yunshu-drwells/Notes/blob/main/donate%20alipay.jpg" alt="202402191238496" width="720" height=""></div></p>
 
 <p align="center"> <div align="middle"><img src="https://github.com/yunshu-drwells/Notes/blob/main/donate%20wechat.jpg" alt="202402191238496" width="720" height=""></div></p>
